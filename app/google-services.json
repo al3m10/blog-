@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "408756541071",
+    "project_id": "blog-app-d7c87",
+    "storage_bucket": "blog-app-d7c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408756541071:android:b5285e1c67fedd16c842fa",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVoirvowJz4i_ixcWweemOUpuyHr3_lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408756541071:android:cdc5ef89d68914d8c842fa",
+        "android_client_info": {
+          "package_name": "com.androidwedakarayo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVoirvowJz4i_ixcWweemOUpuyHr3_lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408756541071:android:024deb6a96c204f0c842fa",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVoirvowJz4i_ixcWweemOUpuyHr3_lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
